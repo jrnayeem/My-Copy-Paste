@@ -46,7 +46,7 @@
                 return (0, c.jsxs)(c.Fragment, {
                     children: [(0, c.jsx)(o(), {
                         children: (0, c.jsx)("title", {
-                            children: "View my profile"
+                            children: "Join my profile"
                         })
                     }), (0, c.jsxs)("div", {
                         className: "LandingPage",
